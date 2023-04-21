@@ -1,3 +1,4 @@
 # AtividadeClimaMarcio
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-xvxck7)
+Atividade solicitada em sala.
+-Thiego Joaquim
